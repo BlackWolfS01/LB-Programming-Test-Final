@@ -1,0 +1,7 @@
+C:\Users\werne_000\OneDrive\MIT MOCC Challenge\LBI Programming Test - Results\AsteroidAvoid\bin\Debug\AsteroidAvoid.exe.config
+C:\Users\werne_000\OneDrive\MIT MOCC Challenge\LBI Programming Test - Results\AsteroidAvoid\bin\Debug\AsteroidAvoid.exe
+C:\Users\werne_000\OneDrive\MIT MOCC Challenge\LBI Programming Test - Results\AsteroidAvoid\bin\Debug\AsteroidAvoid.pdb
+C:\Users\werne_000\OneDrive\MIT MOCC Challenge\LBI Programming Test - Results\AsteroidAvoid\obj\Debug\AsteroidAvoid.csproj.CoreCompileInputs.cache
+C:\Users\werne_000\OneDrive\MIT MOCC Challenge\LBI Programming Test - Results\AsteroidAvoid\obj\Debug\AsteroidAvoid.exe
+C:\Users\werne_000\OneDrive\MIT MOCC Challenge\LBI Programming Test - Results\AsteroidAvoid\obj\Debug\AsteroidAvoid.pdb
+C:\Users\werne_000\OneDrive\MIT MOCC Challenge\LBI Programming Test - Results\AsteroidAvoid\obj\Debug\AsteroidAvoid.csprojAssemblyReference.cache

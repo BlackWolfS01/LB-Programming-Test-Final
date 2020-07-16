@@ -1,0 +1,7 @@
+C:\Users\werne_000\OneDrive\MIT MOCC Challenge\LBI Programming Test - Results\bin\Debug\ConsoleApplication.exe.config
+C:\Users\werne_000\OneDrive\MIT MOCC Challenge\LBI Programming Test - Results\bin\Debug\ConsoleApplication.exe
+C:\Users\werne_000\OneDrive\MIT MOCC Challenge\LBI Programming Test - Results\bin\Debug\ConsoleApplication.pdb
+C:\Users\werne_000\OneDrive\MIT MOCC Challenge\LBI Programming Test - Results\obj\x86\Debug\Attempt3.csprojAssemblyReference.cache
+C:\Users\werne_000\OneDrive\MIT MOCC Challenge\LBI Programming Test - Results\obj\x86\Debug\Attempt3.csproj.CoreCompileInputs.cache
+C:\Users\werne_000\OneDrive\MIT MOCC Challenge\LBI Programming Test - Results\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\werne_000\OneDrive\MIT MOCC Challenge\LBI Programming Test - Results\obj\x86\Debug\ConsoleApplication.pdb
